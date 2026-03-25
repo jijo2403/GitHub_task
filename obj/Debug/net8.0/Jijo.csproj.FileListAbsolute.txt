@@ -1,0 +1,66 @@
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\bin\Debug\net8.0\appsettings.json
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\bin\Debug\net8.0\Jijo.staticwebassets.runtime.json
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\bin\Debug\net8.0\Jijo.staticwebassets.endpoints.json
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\bin\Debug\net8.0\Jijo.exe
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\bin\Debug\net8.0\Jijo.deps.json
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\bin\Debug\net8.0\Jijo.runtimeconfig.json
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\bin\Debug\net8.0\Jijo.dll
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\bin\Debug\net8.0\Jijo.pdb
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\Jijo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\Jijo.AssemblyInfoInputs.cache
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\Jijo.AssemblyInfo.cs
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\Jijo.csproj.CoreCompileInputs.cache
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\Jijo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\Jijo.RazorAssemblyInfo.cache
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\Jijo.RazorAssemblyInfo.cs
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\scopedcss\bundle\Jijo.styles.css
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\scopedcss\projectbundle\Jijo.bundle.scp.css
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\Jijo.dll
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\refint\Jijo.dll
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\Jijo.pdb
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\Jijo.genruntimeconfig.cache
+C:\Users\prageeth.prabhu\Downloads\Jijo\Jijo\obj\Debug\net8.0\ref\Jijo.dll
+D:\Hello world .net\Jijo\Jijo\bin\Debug\net8.0\appsettings.Development.json
+D:\Hello world .net\Jijo\Jijo\bin\Debug\net8.0\appsettings.json
+D:\Hello world .net\Jijo\Jijo\bin\Debug\net8.0\Jijo.staticwebassets.endpoints.json
+D:\Hello world .net\Jijo\Jijo\bin\Debug\net8.0\Jijo.staticwebassets.runtime.json
+D:\Hello world .net\Jijo\Jijo\bin\Debug\net8.0\Jijo.exe
+D:\Hello world .net\Jijo\Jijo\bin\Debug\net8.0\Jijo.deps.json
+D:\Hello world .net\Jijo\Jijo\bin\Debug\net8.0\Jijo.runtimeconfig.json
+D:\Hello world .net\Jijo\Jijo\bin\Debug\net8.0\Jijo.dll
+D:\Hello world .net\Jijo\Jijo\bin\Debug\net8.0\Jijo.pdb
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\Jijo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\Jijo.AssemblyInfoInputs.cache
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\Jijo.AssemblyInfo.cs
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\Jijo.csproj.CoreCompileInputs.cache
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\Jijo.MvcApplicationPartsAssemblyInfo.cache
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\Jijo.RazorAssemblyInfo.cache
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\Jijo.RazorAssemblyInfo.cs
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\scopedcss\bundle\Jijo.styles.css
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\scopedcss\projectbundle\Jijo.bundle.scp.css
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\staticwebassets.build.json
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\staticwebassets.development.json
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\Jijo.dll
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\refint\Jijo.dll
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\Jijo.pdb
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\Jijo.genruntimeconfig.cache
+D:\Hello world .net\Jijo\Jijo\obj\Debug\net8.0\ref\Jijo.dll
